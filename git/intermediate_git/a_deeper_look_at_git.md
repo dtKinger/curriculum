@@ -7,7 +7,7 @@ In this lesson, we'll help with the visualization by diving deeper than just the
 It is **very important** to take a look at all of this before progressing any further with the curriculum. The project work is becoming more and more complex, so using a disciplined Git workflow is no longer optional. Hopefully, after going through this lesson, you'll be much more comfortable changing your Git history and have a better understanding of Git as a whole.
 
 
-### Lesson overview
+### Lesson overview!
 
 This section contains a general overview of topics that you will learn in this lesson.
 
